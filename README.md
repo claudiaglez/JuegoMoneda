@@ -27,6 +27,10 @@ cd JuegoMoneda
 
 * Enjoy the game! :sun_with_face:
 
+* ## :open_hands: Contributions
+
+Do you have any suggestion? Please, feel free to contact me or open an issue or pull request :star_struck:
+
  ## 👩‍💻 Author
 
 :orange_heart: [Claudia González](https://www.linkedin.com/in/claudiaglezgarcia/)
