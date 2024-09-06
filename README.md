@@ -5,7 +5,7 @@ Coin game developed in HTML, CSS and JavaScript including a counter.
 
 ## ⚙️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,netlify)](https://skillicons.dev)
 <br>
 
 
@@ -26,6 +26,10 @@ cd JuegoMoneda
 * Go Live
 
 * Enjoy the game! :sun_with_face:
+
+## :rocket: Deployment
+
+This project is deployed on [Netlify](https://juegomoneda.netlify.app/)
 
 ## :open_hands: Contributions
 
